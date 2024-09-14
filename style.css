@@ -1,0 +1,196 @@
+
+.main img{
+    height: 40px;
+    background-color: ;
+    
+    
+}
+
+ul{
+list-style-type: none;
+display: flex;
+float: right;
+margin-right:
+}
+li{
+margin: 5px;
+text-align: center;
+
+}
+
+ul li a{
+
+    text-decoration: none;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+    padding: 10px;
+}
+.main{
+    background-color: rgb(192, 235, 221);
+    padding: 15px;
+    width: ;
+    justify-content: center;
+}
+
+.active{
+    background-color: rebeccapurple;
+}
+
+
+.imaginatin{
+
+    background-color: red;
+    background-repeat: no-repeat;
+    
+  
+   
+}
+
+.another-one{
+    display: flex;
+    background-color: rgb(192, 235, 221);
+    padding: 30px;
+}
+
+.another-one .box-1{
+    width: 750px;
+    height: 300px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont,
+     'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+      'Helvetica Neue', sans-serif;
+      margin: 20px;
+}
+
+.another-one .box-2 img{
+
+    width: 500px;
+    height: 300px;
+    
+}
+.color{
+    color: rgb(227, 61, 61);
+}
+
+span{
+    color: rgb(49, 18, 222);
+    font-size: 60px;
+}
+
+.another-two .one img{
+    width: 50px;
+    height: 60px;
+    justify-content: center;
+}
+
+.another-two .one{
+
+    background-color:;
+    width: 200px;
+    text-align: center;
+    padding: 30px;
+    margin-left: 63px;
+    margin-top: 30px;
+   
+}
+
+.another-two{
+    display: flex;
+    margin: 30px;
+}
+
+.another-two .two img{
+    width: 50px;
+    height: 60px;
+    justify-content: center;
+}
+
+.another-two .two{
+
+    background-color:;
+    width: 200px;
+    text-align: center;
+    padding: 30px;
+    margin-left: 63px;
+    margin-top: 30px;
+    box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
+}
+
+.another-three .profile{
+
+    background-color:;
+    width: 400px;
+    text-align: center;
+    padding: 30px;
+    margin: 15px;
+    margin-top: 30px;
+    background-color:white;
+   
+}
+
+.another-three .profile img{
+    width: 300px;
+    height: 200px;
+    justify-content: center;
+}
+
+.another-three{
+    display: flex;
+}
+
+.heading{
+    text-align: center;
+}
+
+.icon{
+    display: flex;
+    border:;
+    margin-bottom: 20px;
+   
+
+}
+.icon .icon-1{
+    margin-left: 15px;
+    height: 20px;
+}
+
+.another-three .icon-1 img{
+    width: 20px;
+    height: 20px;
+    
+}
+
+.another-profile .div-1 img{
+    height: 200px;
+}
+
+.another-profile .div-2{
+
+    border:;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 60px;
+}
+
+.another-profile{
+    display: flex;
+    background-color: ;
+    margin: 20px;
+    padding: 20px;
+}
+
+.footer .last-one{
+    font-family: 'Courier New', Courier, monospace;
+    border: ;
+    text-align: center;
+    margin: 50px;
+    color: aliceblue;
+}
+
+.footer{
+    display: flex;
+    margin: 30px;
+    background-color: rgb(28, 21, 34);
+    padding: 40px;
+}
+
